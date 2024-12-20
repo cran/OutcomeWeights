@@ -1,15 +1,15 @@
-c1ef3b3d9f789edda56986288537cf32 *DESCRIPTION
+d31b70f191f6c80f7fedf8eca1369026 *DESCRIPTION
 d4bcd3658a0e5615967a2f4829ae8a72 *NAMESPACE
-f0d7d99b8ab7749dc6e0f99d9d6bde6d *NEWS.md
+d323d5762f86f9c2501e0062763516ef *NEWS.md
 ecf5ac9108bc64243fb1a4d9fa1327b1 *R/NuPa_generic.R
-fb81ba018a2394a8feaff1dcdc1f9215 *R/NuPa_honest_forest.R
+51c915432a051b0a5e10836f49c09909 *R/NuPa_honest_forest.R
 d0de731598a17a7ac4fbed6c0d8ed72a *R/OutcomeWeights-package.R
 40700b349aa4c09527a03436e5469793 *R/RcppExports.R
 98567b7a5c435171fcaba293870f96e3 *R/diagnostics.R
 98bf2e1a77029122943cf45fe137c56b *R/dml_with_smoother.R
 b1801dd9672d6915afabc424b8de1ca4 *R/get_outcome_weights.R
 a5843555a84994b078b394249ddac966 *R/grf.R
-d140618415d1e4dba1cc88404a513ada *README.md
+d76bfda898dc8d24a2d1d3f00af0328b *README.md
 b54db8794555342c4feee5fe0b1b8f5b *build/partial.rdb
 1ce99f9306581ce2fb205f566434e5c6 *man/NuPa_honest_forest.Rd
 05d9fc0430d5cb954b21236cb4a97fec *man/OutcomeWeights-package.Rd
@@ -33,4 +33,5 @@ dd02291ca9f358466a661684b3a8c882 *src/fast_summary_weights.cpp
 9eeb7a532e7b86aa9cc20ebdae35d11f *src/scaled_Ztildex_maker.cpp
 24f45439e570256a612259b624c03cae *tests/testthat.R
 ef75814245751848ce52076f82c763d5 *tests/testthat/test-diagnostics.R
+73b2e8323030e4eb66518a8774fb522d *tests/testthat/test-estimator_combinatorics.R
 996571ea583e6a4cce9f356cd740e5ce *tests/testthat/test-get_outcome_weights.R
